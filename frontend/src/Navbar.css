@@ -1,0 +1,44 @@
+/* CSS */
+
+
+
+nav {
+  background-color: white;
+  overflow: hidden;
+}
+
+nav img {
+  float: left;
+  height: 40px;
+  margin: 5px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+
+nav li {
+  float: left;
+}
+
+nav a {
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: medium;
+}
+
+nav a:hover {
+  background-color: #dacbcb;
+}
+
+.active {
+  text-decoration: underline;
+  text-decoration-color: #e07e8f;
+  text-decoration-thickness: 3px;
+}

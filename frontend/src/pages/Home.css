@@ -1,0 +1,37 @@
+.App {
+    text-align: center;
+}
+
+.homeMenu {
+    background-size: cover;
+    background-color: white;
+    
+}
+
+
+
+.homeMenuButton {
+    /* For your border-radius: */
+    border-radius: 4px;
+    /* This will offer the illusion that it's adopting the
+    background beneath it as its own but lightening it --
+    almost like IOS. */
+    background: #a59b9b;
+    opacity: .4;
+}
+
+.buttonLink {
+    background-color: rgb(232, 150, 150);
+    color: white;
+}
+.heroText {
+    color: white;
+    margin: 40px;
+    padding: 150px; 
+    font-size: 40px;
+}
+.companyInfo {
+    color: rgb(16, 58, 49);
+    margin: 20px;
+    padding: 50px;
+}

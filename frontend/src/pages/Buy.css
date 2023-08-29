@@ -1,0 +1,14 @@
+
+
+.body {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+}
+
+.sidebar {
+    grid-column: 1/2;
+}
+
+.main {
+    grid-column: 2/3;
+}

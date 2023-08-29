@@ -1,0 +1,11 @@
+.vehicleList {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.vehicleList>div {
+    width: 10%;
+    margin: 10px;
+
+}
